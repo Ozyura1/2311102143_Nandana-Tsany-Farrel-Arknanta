@@ -209,6 +209,7 @@ int main() {
 ```
 #### Output:
 ![alt text](image.png)
+
 Kode diatas menghasilkan program kalkulator sederhana dengan menggunakan tipe data primer 'int' untuk mewakili dua bilangan. Dengan menggunakan dua fungsi 'hitungJumlah' dan 'hitungSelisih' untuk melakukan operasi pada bilangan-bilangan tersebut.
 
 ### 2. Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya
