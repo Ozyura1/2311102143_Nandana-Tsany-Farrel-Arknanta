@@ -76,6 +76,7 @@ z << "] = ";
 }
 
 ```
+
 Program di atas menggunakan array tiga dimensi untuk menyimpan dan menampilkan data. Program meminta pengguna untuk menginput nilai ke dalam array, lalu mencetak nilai yang telah dimasukkan. Selanjutnya, tampilan array disederhanakan dengan mencetak nilai dari setiap elemen array secara berurutan menggunakan perulangan bersarang.
 
 ### 2. Mencari Nilai Maksimal Pada Array
@@ -109,8 +110,9 @@ if (array[i] > maks)
   }
 
 ```
+
 Program di atas adalah program yang mencari nilai maksimum dari sejumlah bilangan yang dimasukkan oleh pengguna ke dalam sebuah array. Pengguna diminta untuk memasukkan panjang array dan angka-angkanya. Selanjutnya, program mencari nilai maksimum dengan membandingkan setiap elemen array. Hasilnya dicetak bersama dengan lokasi elemen tersebut dalam array.
-========================================================================================================================================
+
 
 # Unguided
 
@@ -292,7 +294,7 @@ Cara kerjanya:
 6. Setelah mendapatkan nilai-nilai tersebut, program menghitung rata-rata dengan menjumlahkan semua elemen dan membaginya dengan jumlah elemen array. 
 7. Hasil dari analisis tersebut kemudian dicetak sebagai nilai maksimum, nilai minimum, dan nilai rata-rata dari array tersebut. Dengan demikian, program ini memberikan informasi statistik yang berguna dari array yang dimasukkan oleh pengguna.
 
-========================================================================================================================================
+
 
 ## Kesimpulan
 Pada dasarnya, array adalah struktur data yang memungkinkan pengelompokan sejumlah data dalam satu entitas, di mana setiap data memiliki indeks unik untuk referensi. Penggunaan array mempermudah pengelolaan dan akses data, menyediakan kenyamanan dalam organisasi data. Array dibagi menjadi tiga kategori utama: Array Satu Dimensi, yang mengatur data dalam satu baris dengan format Data[], Array Dua Dimensi, yang mengatur data dalam dua baris dengan format Data[][], dan Array Multidimensi, yang mengatur data dalam lebih dari dua dimensi dengan format Data[][][]. Dengan beragam format ini, array memberikan fleksibilitas dalam menyimpan dan memanipulasi data sesuai dengan kebutuhan aplikasi yang berbeda.
