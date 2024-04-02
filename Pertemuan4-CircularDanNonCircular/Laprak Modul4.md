@@ -860,7 +860,7 @@ Single linked list circular adalah struktur data linear yang terdiri dari sejuml
 
 # Unguided
 
-1. Buatlah menu untuk menambahkan, mengubah, menghapus, dan melihat Nama dan NIM mahasiswa
+### 1. Buatlah menu untuk menambahkan, mengubah, menghapus, dan melihat Nama dan NIM mahasiswa
 
 ```C++
 #include<iostream>
@@ -1332,7 +1332,7 @@ int main(){
 
 ![Screenshot Output Unguided 1 Bagian 6](Output-Unguided-1-Tampilan_Modul4_Farrel.png)
 
-2. Setelah membuat menu tersebut, masukkan data sesuai urutan berikut, lalu tampilkan data yang telah dimasukkan. (Gunakan insert depan, belakang atau tengah)
+### 2. Setelah membuat menu tersebut, masukkan data sesuai urutan berikut, lalu tampilkan data yang telah dimasukkan. (Gunakan insert depan, belakang atau tengah)
 
 ![Screenshot Soal Unguided 2](SoalUnguided2_Modul4_Farrel.png)
 
@@ -1340,7 +1340,9 @@ int main(){
 
 ![Screenshot Output Unguided 2 Bagian 1](Output-Unguided-2_Modul4_Farrel.png)
 
-3. Lakukan perintah berikut:
+
+
+### 3. Lakukan perintah berikut:
   #### a) Tambahkan data berikut diantara Farrel dan Denis: Wati 2330004
   #### b) Hapus data Denis
   #### c) Tambahkan data berikut di awal: Owi 2330000
