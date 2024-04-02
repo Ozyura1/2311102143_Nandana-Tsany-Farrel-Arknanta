@@ -2,10 +2,9 @@
 <p align="center">Nandana Tsany Farrel Arkananta - 2311102143</p>
 
 # Tujuan Pratikum
-a. Praktikan dapat mengetahui dan memahami linked list circular dan non circular.
-b. Praktikan dapat membuat linked list circular dan non circular.
-c. Praktikan dapat mengaplikasikan atau menerapkan linked list circular dan non 
-circular pada program yang dibuat
+#### a. Praktikan dapat mengetahui dan memahami linked list circular dan non circular.
+#### b. Praktikan dapat membuat linked list circular dan non circular.
+#### c. Praktikan dapat mengaplikasikan atau menerapkan linked list circular dan non circular pada program yang dibuat
 
 # Dasar Teori 
 <h2>1. Linked List Non Circular</h2>
@@ -1301,20 +1300,14 @@ int main(){
 
 
 3) Lakukan perintah berikut:
-    a) Tambahkan data berikut diantara Farrel dan Denis:
-    Wati 2330004
+    a) Tambahkan data berikut diantara Farrel dan Denis: Wati 2330004
     b) Hapus data Denis
-    c) Tambahkan data berikut di awal:
-    Owi 2330000
-    d) Tambahkan data berikut di akhir:
-    David 23300100
-    e) Ubah data Udin menjadi data berikut:
-    Idin 23300045
-    f) Ubah data terkahir menjadi berikut:
-    Lucy 23300101
+    c) Tambahkan data berikut di awal: Owi 2330000
+    d) Tambahkan data berikut di akhir: David 23300100
+    e) Ubah data Udin menjadi data berikut: Idin 23300045
+    f) Ubah data terkahir menjadi berikut: Lucy 23300101
     g) Hapus data awal
-    h) Ubah data awal menjadi berikut:
-    Bagas 2330002
+    h) Ubah data awal menjadi berikut: Bagas 2330002
     i) Hapus data akhir
     j) Tampilkan seluruh data
 
@@ -1346,13 +1339,13 @@ Pada praktikum ini, tujuannya adalah agar kita bisa memahami dan dapat menciptak
 
 Kita berhasil dengan mengikuti langkah-langkah sebagai berikut:
 
-a. Paham tentang Linked List Circular dan Non-Circular:
+1. Paham tentang Linked List Circular dan Non-Circular:
    Kita belajar bahwa linked list adalah cara menyimpan data secara terhubung satu sama lain. Kita juga paham bahwa ada bedanya antara linked list yang bisa membentuk Circular dan yang Non-Circular. Yang membentuk Circular, elemen terakhirnya terhubung kembali ke elemen pertama.
 
-b. Membuat Linked List Circular dan Non-Circular:
+2. Membuat Linked List Circular dan Non-Circular:
    Kita membuat bikin linked list yang dapat membentuk Circular dan yang Non-Circular menggunakan bahasa pemrograman yang kita pilih. Kita dapat menciptakan struktur data yang benar dan menghubungkan elemen-elemennya.
 
-c. Pakai Linked List Circular dan Non-Circular di Program:
+3. Pakai Linked List Circular dan Non-Circular di Program:
    Kita berhasil menggunakan linked list Circular dan Non-Circular di dalam program-program sederhana yang kita buat. Kita memakai linked list sebagai cara simpan dan kelola data dengan efisien di dalam program.
 
 Dengan begitu, kita sudah berhasil mencapai tujuan praktikum. Kita tidak hanya paham konsep linked list Circular dan Non-Circular, tapi juga bisa buat dan gunakan dalam program. Ini menunjukkan bahwa kita sudah menguasai materi praktikum dengan baik.
