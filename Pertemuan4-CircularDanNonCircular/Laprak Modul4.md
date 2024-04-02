@@ -1411,10 +1411,12 @@ Kita membuat bikin linked list yang dapat membentuk Circular dan yang Non-Circul
 3. Pakai Linked List Circular dan Non-Circular di Program:
 Kita berhasil menggunakan linked list Circular dan Non-Circular di dalam program-program sederhana yang kita buat. Kita memakai linked list sebagai cara simpan dan kelola data dengan efisien di dalam program.
 
-Dengan begitu, kita sudah berhasil mencapai tujuan praktikum. Kita tidak hanya paham konsep linked list Circular dan Non-Circular, tapi juga bisa buat dan gunakan dalam program. Ini menunjukkan bahwa kita sudah menguasai materi praktikum dengan baik.
+Dengan begitu, kita sudah berhasil mencapai tujuan praktikum. Kita tidak hanya paham konsep linked list Circular dan Non-Circular, tapi juga bisa buat dan menggunakan dalam program. Ini menunjukkan bahwa kita sudah menguasai materi praktikum dengan baik.
 
 # Referensi
 
 [1] Muhammad Nugraha, Dasar Pemrograman Dengan C++, Materi Paling Dasar untuk Menjadi Programmer Berbagai Platform Yogyakarta: Deepublish, 2021.
+
 [2] Triase, 2020. "Diktat Edisi Revisi : STRUKTUR DATA". Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN.
+
 [3] A VijayaPandian,2018. "Enhanced Linked List Visualizer Tutor for C++". California State University, San Marcos
