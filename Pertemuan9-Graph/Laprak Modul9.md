@@ -4,7 +4,7 @@
 
 ## Dasar Teori
 
-#### Pengertian Stack
+#### Pengertian Graph
 
 Dalam pemrograman, Tree (Pohon) dan Graph (Graf) adalah dua struktur data penting yang digunakan dalam berbagai aplikasi dan algoritma. Berikut ini adalah penjelasan dasar mengenai Tree dan Graph dalam konteks pemrograman:
 
